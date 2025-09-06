@@ -13,9 +13,9 @@ public class calender {
             temp=temp%365;
             System.out.println("Months:"+temp/30);
             temp=temp%30;}
-            if(n>0){
+            if(n>0)
                 System.out.println("Days:" +temp );
-            }
+            
             
             
             
